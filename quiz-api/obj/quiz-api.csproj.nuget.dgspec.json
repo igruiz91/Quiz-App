@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\Projects\\CSharp\\Quiz App\\quiz-api\\quiz-api\\quiz-api.csproj": {}
+    "D:\\Work\\Projects\\CSharp\\Quiz App\\quiz-api\\quiz-api.csproj": {}
   },
   "projects": {
-    "D:\\Work\\Projects\\CSharp\\Quiz App\\quiz-api\\quiz-api\\quiz-api.csproj": {
+    "D:\\Work\\Projects\\CSharp\\Quiz App\\quiz-api\\quiz-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Projects\\CSharp\\Quiz App\\quiz-api\\quiz-api\\quiz-api.csproj",
+        "projectUniqueName": "D:\\Work\\Projects\\CSharp\\Quiz App\\quiz-api\\quiz-api.csproj",
         "projectName": "quiz-api",
-        "projectPath": "D:\\Work\\Projects\\CSharp\\Quiz App\\quiz-api\\quiz-api\\quiz-api.csproj",
+        "projectPath": "D:\\Work\\Projects\\CSharp\\Quiz App\\quiz-api\\quiz-api.csproj",
         "packagesPath": "C:\\Users\\igrui\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Projects\\CSharp\\Quiz App\\quiz-api\\quiz-api\\obj\\",
+        "outputPath": "D:\\Work\\Projects\\CSharp\\Quiz App\\quiz-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\igrui\\AppData\\Roaming\\NuGet\\NuGet.Config",
